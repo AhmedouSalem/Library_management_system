@@ -1,0 +1,11 @@
+------identifiant client-------
+nom : Ahmedou Salem
+mot de passe : Admin
+---------------------------------------
+---------identifiant bibiliothecaire(Administrateur)---
+nom : Admin
+mot de passe : Admin
+
+
+----------------ProjetS5-------------------
+creer une bd nomer 'librairie' et importait le fichier 'librairie.sql'
